@@ -1,0 +1,18 @@
+# 模型检查点
+*.pt
+
+# Python缓存
+__pycache__/
+*.pyc
+
+# 大数据文件
+*.pkl
+*.csd
+*.zip
+*.h5
+
+# PPT缓存
+~$*.pptx
+
+# VS Code
+.vscode/
